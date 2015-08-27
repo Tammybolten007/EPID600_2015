@@ -1,0 +1,67 @@
+---
+title: "EPID 600: Module 1 Optional Reading"
+output: html_document
+---
+***
+
+#### Data Science
+- [Data Scientist: The Sexiest Job of the 21st Century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century/)
+
+- [Data Science... Buzzword?](http://www.forbes.com/sites/gilpress/2013/08/19/data-science-whats-the-half-life-of-a-buzzword/)
+
+- [Data Science Supply and Demand](http://www.forbes.com/sites/gilpress/2015/04/30/the-supply-and-demand-of-data-scientists-what-the-surveys-say/)
+
+- [No-Boundary Thinking in Bioinformatics](http://www.biodatamining.org/content/6/1/19)
+
+
+#### Getting Help
+- [Biostars](https://www.biostars.org/)
+
+- [Seqanswers](http://seqanswers.com/)
+
+
+#### Unix
+
+- [Unix tutorial](http://www.ee.surrey.ac.uk/Teaching/Unix/)
+
+- [Unix commands for data science](http://www.gregreda.com/2013/07/15/unix-commands-for-data-science/)
+
+- [Unix commands for bioinformatics](http://lh3lh3.users.sourceforge.net/biounix.shtml)
+
+
+#### R
+- [R Manuals](https://cran.r-project.org/manuals.html)
+
+- [R Markdown](http://rmarkdown.rstudio.com/)
+
+- [Hadley Wickham](http://priceonomics.com/hadley-wickham-the-man-who-revolutionized-r/)
+
+
+#### Git/GitHub
+- [Git guide](https://rogerdudler.github.io/git-guide/)
+
+- [Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
+
+- [Interactive git tutorial](https://try.github.io/levels/1/challenges/1)
+
+- [Github tutorial](http://kbroman.org/github_tutorial/)
+
+
+#### Reproducibility
+
+- [Why Most Research Findings Are False](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1182327/pdf/pmed.0020124.pdf)
+
+- [Reliability of Drug Target Claims Questioned](http://blogs.nature.com/news/2011/09/reliability_of_new_drug_target.html)
+
+- [Lies, Damned Lies, and Medical Scince](http://www.theatlantic.com/magazine/archive/2010/11/lies-damned-lies-and-medical-science/308269/)
+
+- [Deworming Trials](http://www.buzzfeed.com/bengoldacre/deworming-trials)
+
+- [Reproducible Research in Computational Science](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3383002/)
+
+- [Best Practices for Scientific Computing](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745)
+
+- [Spurious Correlations](http://www.tylervigen.com/spurious-correlations)
+
+***
+
