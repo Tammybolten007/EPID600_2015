@@ -86,5 +86,16 @@ output: html_document
 
 - [Colorbrewer - colors for cartography](http://colorbrewer2.org/)
 
+
+#### Data Sources
+
+- [Lists of Goverment Data](http://www.data.gov/open-gov/)
+
+- [Philadelphia](https://www.opendataphilly.org/)
+
+- [LexHub, language analyses deriving insights about people](http://lexhub.org/data_sets.html)
+
+- [A little of everything](https://github.com/caesar0301/awesome-public-datasets/blob/master/README.rst)
+
 ***
 
