@@ -13,3 +13,5 @@ This dictionary is for a portion of [NHANES](http://www.cdc.gov/nchs/nhanes.htm)
 |RDQ070          |Wheezing or whistling in chest - past yr|1=Yes; 2=No; 7=Refused; 9=Don't Know; All else=Missing|
 |MCQ010          |Ever been told have asthma |1=Yes; 2=No; 7=Refused; 9=Don't Know; All else=Missing|
 |WTSVOC2Y        |VOC Subsample Weight  |7544.8236215-319733.44187=Range of values; All else=Missing|
+|SPXNFVC         |Baseline 1st Test Spirometry, Forced Vital Capacity, in mL.|614-8084=Range of values; All else=Missing|
+|SPXNFEV1        |Baseline 1st Test Spirometry, Forced Expiratory Volume in the first 1.0 second, in mL.|459-6770=Range of values; All else=Missing|
