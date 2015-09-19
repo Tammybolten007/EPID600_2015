@@ -99,5 +99,7 @@ output: html_document
 
 - [A little of everything](https://github.com/caesar0301/awesome-public-datasets/blob/master/README.rst)
 
+- [CDC Datasets](http://www.cdc.gov/nchs/data_access/ftp_data.htm)
+
 ***
 
