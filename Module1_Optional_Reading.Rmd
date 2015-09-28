@@ -76,6 +76,7 @@ output: html_document
 
 - [Webscraping ethics](https://quickleft.com/blog/is-web-scraping-ethical/)
 
+
 #### Visualization
 
 - [Buzzfeed listicle format](http://www.storybench.org/using-buzzfeeds-listicle-format-tell-stories-maps-charts/)
@@ -86,7 +87,7 @@ output: html_document
 
 - [Colorbrewer - colors for cartography](http://colorbrewer2.org/)
 
-
+- [ggplot2 samples with code](http://rvisualization.com/r-scripts/)
 
 
 #### Data Sources
