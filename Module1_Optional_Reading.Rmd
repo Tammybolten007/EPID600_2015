@@ -89,6 +89,8 @@ output: html_document
 
 - [ggplot2 samples with code](http://rvisualization.com/r-scripts/)
 
+- [Another sampling of ggplot2 graphs](http://shiny.stat.ubc.ca/r-graph-catalog/)
+
 
 #### Data Sources
 
