@@ -99,6 +99,8 @@ output: html_document
 
 - [Classifier Visualization (code in Python)](http://scikit-learn.org/stable/auto_examples/plot_classifier_comparison.html)
 
+- [SVM Kernels](http://scikit-learn.org/stable/auto_examples/svm/plot_svm_kernels.html)
+
 #### Data Sources
 
 - [Lists of Goverment Data](http://www.data.gov/open-gov/)
