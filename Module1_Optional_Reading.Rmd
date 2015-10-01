@@ -76,6 +76,10 @@ output: html_document
 
 - [Webscraping ethics](https://quickleft.com/blog/is-web-scraping-ethical/)
 
+#### Exploratory Analysis
+
+- [Slides from Vanderbilt course on Graph Construction](http://biostat.mc.vanderbilt.edu/wiki/pub/Main/StatGraphCourse/graphscourse.pdf)
+
 
 #### Visualization
 
