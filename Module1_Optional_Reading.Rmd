@@ -92,6 +92,13 @@ output: html_document
 - [Another sampling of ggplot2 graphs](http://shiny.stat.ubc.ca/r-graph-catalog/)
 
 
+
+#### Machine Learning
+
+- [Decision Trees Visual Resource](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+
+- [Classifier Visualization (code in Python)](http://scikit-learn.org/stable/auto_examples/plot_classifier_comparison.html)
+
 #### Data Sources
 
 - [Lists of Goverment Data](http://www.data.gov/open-gov/)
