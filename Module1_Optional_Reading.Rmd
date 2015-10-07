@@ -105,6 +105,11 @@ output: html_document
 
 - [SVM Kernels](http://scikit-learn.org/stable/auto_examples/svm/plot_svm_kernels.html)
 
+- [Machine Learning Tutorial by Hastie and Tibshirani](http://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/)
+
+- [ROC and AUC](http://www.joyofdata.de/blog/illustrated-guide-to-roc-and-auc/)
+
+
 #### Data Sources
 
 - [Lists of Goverment Data](http://www.data.gov/open-gov/)
@@ -116,6 +121,8 @@ output: html_document
 - [A little of everything](https://github.com/caesar0301/awesome-public-datasets/blob/master/README.rst)
 
 - [CDC Datasets](http://www.cdc.gov/nchs/data_access/ftp_data.htm)
+
+- [Collection from Vanderbilt biostats](http://biostat.mc.vanderbilt.edu/wiki/Main/DataSets)
 
 ***
 
