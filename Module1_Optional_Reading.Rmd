@@ -109,6 +109,7 @@ output: html_document
 
 - [ROC and AUC](http://www.joyofdata.de/blog/illustrated-guide-to-roc-and-auc/)
 
+- [How Not to Use Machine Learning: Case Study from ASHG 2015](http://andrewgelman.com/2015/10/10/gay-gene-tabloid-hype-update/)
 
 #### Data Sources
 
