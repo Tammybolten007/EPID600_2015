@@ -10,7 +10,7 @@ output: html_document
 
 #### Census and other GIS Data
 
-- [Nathan Yau US Statistical Atlas](http://flowingdata.com/2015/06/16/reviving-the-statistical-atlas-of-the-united-states-with-new-data/)
+- [Nathan Yau US Statistical Atlas - Amazing Plots, No Code](http://flowingdata.com/2015/06/16/reviving-the-statistical-atlas-of-the-united-states-with-new-data/)
 
 - [Package for TIGER/Line Shapefiles](https://rpubs.com/walkerke/tigris)
 
