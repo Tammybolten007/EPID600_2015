@@ -7,3 +7,11 @@ output: html_document
 #### Social Media Data
 
 - [Project Well Being](http://wwbp.org/)
+
+#### Census and other GIS Data
+
+- [Nathan Yau US Statistical Atlas](http://flowingdata.com/2015/06/16/reviving-the-statistical-atlas-of-the-united-states-with-new-data/)
+
+- [Package for TIGER/Line Shapefiles](https://rpubs.com/walkerke/tigris)
+
+- [2010 US Census Data in R](https://cran.r-project.org/web/packages/UScensus2010/index.html)
