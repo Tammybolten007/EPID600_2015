@@ -15,3 +15,10 @@ output: html_document
 - [Package for TIGER/Line Shapefiles](https://rpubs.com/walkerke/tigris)
 
 - [2010 US Census Data in R](https://cran.r-project.org/web/packages/UScensus2010/index.html)
+
+
+#### Genetic Data
+
+- [Genetics Timeline](https://unlockinglifescode.org/timeline)
+
+- [1000 Genome Project End](http://www.wired.com/2015/09/power-1000-genomes/)
