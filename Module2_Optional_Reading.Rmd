@@ -24,3 +24,6 @@ output: html_document
 - [1000 Genome Project End](http://www.wired.com/2015/09/power-1000-genomes/)
 
 - [Whole Exome Sequencing Review](http://www.nature.com/jhg/journal/v59/n1/full/jhg2013114a.html)
+
+- [Matt Might Talk on How to Face an Unknown Rare Disease and Challenging the "Not Actionable" Label](https://youtu.be/rx0kK6VnLSc)
+
