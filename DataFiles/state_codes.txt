@@ -1,4 +1,4 @@
-State	State_Code
+State	State_FIPS_Code
 Alabama	1
 Alaska	2
 Arizona	4
