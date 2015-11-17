@@ -36,5 +36,21 @@ output: html_document
 
 - [Batch effects overview](http://www.nature.com/nrg/journal/v11/n10/full/nrg2825.html)
 
+- [Batch effects discussion on twitter](http://www.nature.com/news/potential-flaws-in-genomics-paper-scrutinized-on-twitter-1.17591)
+
+- [Reanalysis of paper where batch effects were not fully accounted for](http://f1000research.com/articles/4-121/v1)
+
+- [What is a read mapping?](https://liorpachter.wordpress.com/2015/11/01/what-is-a-read-mapping/)
+
+
+#### Epigenetic Data
+
+- [ENCODE](http://www.genome.gov/10005107)
+
+- [ENCODE criticism as scientific viewpoint](http://www.pnas.org/content/110/14/5294)
+
+- [ENCODE criticism overview](http://blogs.nature.com/news/2012/09/fighting-about-encode-and-junk.html)
+
+- [Roadmap Epigenomics](http://www.roadmapepigenomics.org/)
 
 
