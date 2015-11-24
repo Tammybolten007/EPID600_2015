@@ -53,4 +53,6 @@ output: html_document
 
 - [Roadmap Epigenomics](http://www.roadmapepigenomics.org/)
 
+#### Cloud Computing
 
+- [AWS Training](https://aws.amazon.com/training/intro_series/)
