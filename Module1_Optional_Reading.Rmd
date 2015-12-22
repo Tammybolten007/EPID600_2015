@@ -50,6 +50,8 @@ output: html_document
 
 - [Github tutorial](http://kbroman.org/github_tutorial/)
 
+- [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
+
 
 #### Reproducibility
 
@@ -78,6 +80,8 @@ output: html_document
 
 #### Exploratory Analysis
 
+- [Probability Distributions Crib Sheet](http://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/)
+
 - [Slides from Vanderbilt course on Graph Construction](http://biostat.mc.vanderbilt.edu/wiki/pub/Main/StatGraphCourse/graphscourse.pdf)
 
 
@@ -88,6 +92,8 @@ output: html_document
 - [rCharts Gallery](http://rcharts.io/gallery/)
 
 - [plot.ly interactive charts](http://moderndata.plot.ly/interactive-r-visualizations-with-d3-ggplot2-rstudio/)
+
+- [plot.ly open source announcement](https://plot.ly/javascript/open-source-announcement/)
 
 - [Colorbrewer - colors for cartography](http://colorbrewer2.org/)
 
@@ -110,6 +116,7 @@ output: html_document
 - [ROC and AUC](http://www.joyofdata.de/blog/illustrated-guide-to-roc-and-auc/)
 
 - [How Not to Use Machine Learning: Case Study from ASHG 2015](http://andrewgelman.com/2015/10/10/gay-gene-tabloid-hype-update/)
+
 
 #### Data Sources
 

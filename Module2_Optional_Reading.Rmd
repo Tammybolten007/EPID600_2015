@@ -8,6 +8,8 @@ output: html_document
 
 - [Project Well Being](http://wwbp.org/)
 
+- [Using Twitter as a Data Source](http://blogs.lse.ac.uk/impactofsocialsciences/2015/07/10/social-media-research-tools-overview/)
+
 #### Census and other GIS Data
 
 - [Nathan Yau US Statistical Atlas - Amazing Plots, No Code](http://flowingdata.com/2015/06/16/reviving-the-statistical-atlas-of-the-united-states-with-new-data/)
@@ -56,3 +58,5 @@ output: html_document
 #### Cloud Computing
 
 - [AWS Training](https://aws.amazon.com/training/intro_series/)
+
+- [Angel Pizarro Podcast About AWS](http://mendelspod.com/podcasts/genomics-and-cloud-going-through-second-puberty-says-aws-angel-pizarro/)
