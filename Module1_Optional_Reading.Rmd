@@ -42,6 +42,8 @@ output: html_document
 
 #### Git/GitHub
 
+- [Intro to git and github](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668)
+
 - [Git guide](https://rogerdudler.github.io/git-guide/)
 
 - [Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
