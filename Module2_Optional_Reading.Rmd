@@ -27,6 +27,8 @@ output: html_document
 
 - [Whole Exome Sequencing Review](http://www.nature.com/jhg/journal/v59/n1/full/jhg2013114a.html)
 
+- [Tutorials from the UK 100,000 Genomes Project](http://www.genomicsengland.co.uk/the-100000-genomes-project/understanding-genomics/)
+
 - [Matt Might Talk on How to Face an Unknown Rare Disease and Challenging the "Not Actionable" Label](https://youtu.be/rx0kK6VnLSc)
 
 
