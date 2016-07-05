@@ -38,11 +38,15 @@ output: html_document
 
 - [Batch effects overview](http://www.nature.com/nrg/journal/v11/n10/full/nrg2825.html)
 
+- [Batch effects explained in straightforward terms](http://simplystatistics.org/2015/05/20/is-it-species-or-is-it-batch-they-are-confounded-so-we-cant-know/)
+
 - [Batch effects discussion on twitter](http://www.nature.com/news/potential-flaws-in-genomics-paper-scrutinized-on-twitter-1.17591)
 
 - [Reanalysis of paper where batch effects were not fully accounted for](http://f1000research.com/articles/4-121/v1)
 
 - [What is a read mapping?](https://liorpachter.wordpress.com/2015/11/01/what-is-a-read-mapping/)
+
+- [Unwanted effects when processing blood samples](http://www.pnas.org/content/111/47/16802.short)
 
 
 #### Epigenetic Data
