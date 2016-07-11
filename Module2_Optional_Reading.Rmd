@@ -18,6 +18,7 @@ output: html_document
 
 - [2010 US Census Data in R](https://cran.r-project.org/web/packages/UScensus2010/index.html)
 
+- [Analysis of Spatial Data in R](https://cran.r-project.org/web/views/Spatial.html)
 
 #### Genetic Data
 
@@ -60,6 +61,12 @@ output: html_document
 - [ENCODE criticism overview](http://blogs.nature.com/news/2012/09/fighting-about-encode-and-junk.html)
 
 - [Roadmap Epigenomics](http://www.roadmapepigenomics.org/)
+
+#### Functional Annotation and Pathway Analysis
+
+- [GSEA vs. DAVID](http://genomespot.blogspot.com.au/2016/02/pathway-analysis-david-versus-gsea.html)
+
+- [On the dependence of enrichment results on reference pathways](http://biorxiv.org/content/early/2016/04/19/049288)
 
 #### Cloud Computing
 
