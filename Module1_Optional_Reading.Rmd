@@ -95,7 +95,7 @@ output: html_document
 
 - [plot.ly interactive charts](http://moderndata.plot.ly/interactive-r-visualizations-with-d3-ggplot2-rstudio/)
 
-- [plot.ly open source announcement](https://plot.ly/javascript/open-source-announcement/)
+- [plot.ly R shinny gallery](https://plot.ly/r/shiny-gallery/)
 
 - [Colorbrewer - colors for cartography](http://colorbrewer2.org/)
 
@@ -105,6 +105,11 @@ output: html_document
 
 - [How mass breast cancer screening failed... in one chart](http://www.vox.com/2015/10/28/9631500/does-mammography-work)
 
+- [gganimate to make animated plots in R](https://github.com/dgrtwo/gganimate)
+
+- [Tufte style for R Markdown](http://rstudio.github.io/tufte/)
+
+- [Causes of death visualization](http://flowingdata.com/2016/01/05/causes-of-death/)
 
 #### Machine Learning
 
@@ -120,6 +125,7 @@ output: html_document
 
 - [How Not to Use Machine Learning: Case Study from ASHG 2015](http://andrewgelman.com/2015/10/10/gay-gene-tabloid-hype-update/)
 
+- [Neural Net interactive demo](http://playground.tensorflow.org)
 
 #### Data Sources
 
